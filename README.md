@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adedimola Ogidan</h1>
 <h3 align="center">Crafting Engaging Experiences Through Frontend Wizardry ✨</h3>
 
-- 👨‍💻 All of my projects are available at [https://adedimola.netlify.app/](https://adedimola.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adedimolaogidan.com/](https://adedimolaogidan.com/)
 
 - 📫 How to reach me **adedimolaogidan@gmail.com**
 
