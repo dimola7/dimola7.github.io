@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **adedimolaogidan@gmail.com**
 
-- 📄 Know about my experiences [https://adedimola.netlify.app/resume](https://adedimola.netlify.app/resume)
+- 📄 Know about my experiences [https://adedimola.netlify.app/resume](https://adedimolaogidan.com/resume)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimola7&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dimola7" /></p>
 
