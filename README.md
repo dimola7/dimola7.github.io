@@ -13,8 +13,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimola7&theme=onedark" alt="dimola7" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dimola_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dimola_" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dimola_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dimola_" /></a></p><br><br> -->
 
 <h3 align="left">Connect with me:</h3>
 
